@@ -1,0 +1,7 @@
+MOONZY SITE BILINGUE (PORTUGUÊS / ENGLISH)
+
+No GitHub fluvb/Moonzy: carrega os 4 ficheiros index.html, style.css, script.js e moonzy-lua.jpg para a raiz do repositório. Substitui os três ficheiros antigos quando o GitHub perguntar e confirma Commit changes. NÃO envies o ZIP, o bot.py ou o .env.
+
+O seletor 🇵🇹 PT / 🇬🇧 EN fica no menu superior. O idioma escolhido fica guardado no navegador.
+
+Site: https://fluvb.github.io/Moonzy/
