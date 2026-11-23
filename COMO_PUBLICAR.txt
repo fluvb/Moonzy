@@ -1,0 +1,16 @@
+MOONZY BOT — PUBLICAR GRATUITAMENTE NO GITHUB PAGES
+
+1. Entra em https://github.com e cria uma conta ou inicia sessão.
+2. Clica em New repository (Novo repositório).
+3. Nome: moonzy-site | Visibilidade: Public | Create repository.
+4. No repositório, clica em Add file > Upload files.
+5. Abre esta pasta extraída e envia os ficheiros index.html, style.css e script.js (diretamente na raiz, sem outra pasta).
+6. Clica em Commit changes.
+7. Vai a Settings > Pages.
+8. Em Build and deployment, Source: Deploy from a branch.
+9. Branch: main; pasta: /(root). Clica em Save.
+10. Aguarda alguns minutos. O endereço será:
+    https://TEU-UTILIZADOR.github.io/moonzy-site/
+
+O site é estático. Não carregues o bot.py, ficheiros .env nem tokens para o GitHub.
+O bot Discord é executado separadamente do site.
